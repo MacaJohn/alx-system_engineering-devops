@@ -6,7 +6,7 @@
 4. Last lines- > Display the last 10 lines of /etc/passwd
 5. First lines- > Display the first 10 lines of /etc/passwd
 6. Third line- > Write a script that displays the third line of the file iacta.
-7. File- > Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+7. File- > Write a shell script that creates a file named, containing the text Best School ending by a new line.
 8. State- > writes into the file ls_cwd_content the result of the command ls -la. If the file ls_cwd_content already exists, it should be overwritten.
 9. Duplicate fiesrt line- > Write a script that duplicates the last line of the file iacta
 10. No more js- > Write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory
